@@ -1,0 +1,427 @@
+[
+{
+  "directory": "/home/jerry/ECE511/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIE -std=c++20 -o CMakeFiles/ramulator-exe.dir/src/main.cpp.o -c /home/jerry/ECE511/src/main.cpp",
+  "file": "/home/jerry/ECE511/src/main.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/binary.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/binary.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/binary.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/convert.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/convert.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/convert.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/depthguard.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/depthguard.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/depthguard.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/directives.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/directives.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/directives.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/emit.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/emit.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/emit.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/emitfromevents.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/emitfromevents.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/emitfromevents.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/emitter.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/emitter.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/emitter.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/emitterstate.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/emitterstate.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/emitterstate.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/emitterutils.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/emitterutils.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/emitterutils.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/exceptions.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/exceptions.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/exceptions.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/exp.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/exp.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/exp.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/memory.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/memory.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/memory.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/node.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/node.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/node.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/node_data.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/node_data.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/node_data.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/nodebuilder.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/nodebuilder.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/nodebuilder.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/nodeevents.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/nodeevents.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/nodeevents.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/null.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/null.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/null.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/ostream_wrapper.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/ostream_wrapper.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/ostream_wrapper.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/parse.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/parse.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/parse.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/parser.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/parser.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/parser.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/regex_yaml.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/regex_yaml.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/regex_yaml.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/scanner.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/scanner.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/scanner.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/scanscalar.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/scanscalar.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/scanscalar.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/scantag.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/scantag.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/scantag.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/scantoken.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/scantoken.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/scantoken.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/simplekey.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/simplekey.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/simplekey.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/singledocparser.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/singledocparser.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/singledocparser.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/stream.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/stream.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/stream.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/yaml-cpp-build",
+  "command": "/usr/bin/c++ -DYAML_CPP_NO_CONTRIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/yaml-cpp/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wshadow -Weffc++ -Wno-long-long -pedantic -pedantic-errors -std=c++20 -o CMakeFiles/yaml-cpp.dir/src/tag.cpp.o -c /home/jerry/ECE511/ext/yaml-cpp/src/tag.cpp",
+  "file": "/home/jerry/ECE511/ext/yaml-cpp/src/tag.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /home/jerry/ECE511/ext/spdlog/src/spdlog.cpp",
+  "file": "/home/jerry/ECE511/ext/spdlog/src/spdlog.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /home/jerry/ECE511/ext/spdlog/src/stdout_sinks.cpp",
+  "file": "/home/jerry/ECE511/ext/spdlog/src/stdout_sinks.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /home/jerry/ECE511/ext/spdlog/src/color_sinks.cpp",
+  "file": "/home/jerry/ECE511/ext/spdlog/src/color_sinks.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /home/jerry/ECE511/ext/spdlog/src/file_sinks.cpp",
+  "file": "/home/jerry/ECE511/ext/spdlog/src/file_sinks.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /home/jerry/ECE511/ext/spdlog/src/async.cpp",
+  "file": "/home/jerry/ECE511/ext/spdlog/src/async.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /home/jerry/ECE511/ext/spdlog/src/cfg.cpp",
+  "file": "/home/jerry/ECE511/ext/spdlog/src/cfg.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /home/jerry/ECE511/ext/spdlog/src/bundled_fmtlib_format.cpp",
+  "file": "/home/jerry/ECE511/ext/spdlog/src/bundled_fmtlib_format.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/base",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-base.dir/factory.cpp.o -c /home/jerry/ECE511/src/base/factory.cpp",
+  "file": "/home/jerry/ECE511/src/base/factory.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/base",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-base.dir/logging.cpp.o -c /home/jerry/ECE511/src/base/logging.cpp",
+  "file": "/home/jerry/ECE511/src/base/logging.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/base",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-base.dir/utils.cpp.o -c /home/jerry/ECE511/src/base/utils.cpp",
+  "file": "/home/jerry/ECE511/src/base/utils.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/base",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-base.dir/config.cpp.o -c /home/jerry/ECE511/src/base/config.cpp",
+  "file": "/home/jerry/ECE511/src/base/config.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/base",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-base.dir/stats.cpp.o -c /home/jerry/ECE511/src/base/stats.cpp",
+  "file": "/home/jerry/ECE511/src/base/stats.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/base",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-base.dir/request.cpp.o -c /home/jerry/ECE511/src/base/request.cpp",
+  "file": "/home/jerry/ECE511/src/base/request.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/test",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-test.dir/test_impl.cpp.o -c /home/jerry/ECE511/src/test/test_impl.cpp",
+  "file": "/home/jerry/ECE511/src/test/test_impl.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/frontend",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-frontend.dir/impl/memory_trace/loadstore_trace.cpp.o -c /home/jerry/ECE511/src/frontend/impl/memory_trace/loadstore_trace.cpp",
+  "file": "/home/jerry/ECE511/src/frontend/impl/memory_trace/loadstore_trace.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/frontend",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-frontend.dir/impl/memory_trace/readwrite_trace.cpp.o -c /home/jerry/ECE511/src/frontend/impl/memory_trace/readwrite_trace.cpp",
+  "file": "/home/jerry/ECE511/src/frontend/impl/memory_trace/readwrite_trace.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/frontend",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-frontend.dir/impl/processor/simpleO3/simpleO3.cpp.o -c /home/jerry/ECE511/src/frontend/impl/processor/simpleO3/simpleO3.cpp",
+  "file": "/home/jerry/ECE511/src/frontend/impl/processor/simpleO3/simpleO3.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/frontend",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-frontend.dir/impl/processor/simpleO3/core.cpp.o -c /home/jerry/ECE511/src/frontend/impl/processor/simpleO3/core.cpp",
+  "file": "/home/jerry/ECE511/src/frontend/impl/processor/simpleO3/core.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/frontend",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-frontend.dir/impl/processor/simpleO3/llc.cpp.o -c /home/jerry/ECE511/src/frontend/impl/processor/simpleO3/llc.cpp",
+  "file": "/home/jerry/ECE511/src/frontend/impl/processor/simpleO3/llc.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/frontend",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-frontend.dir/impl/processor/simpleO3/trace.cpp.o -c /home/jerry/ECE511/src/frontend/impl/processor/simpleO3/trace.cpp",
+  "file": "/home/jerry/ECE511/src/frontend/impl/processor/simpleO3/trace.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/frontend",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-frontend.dir/impl/processor/bhO3/bhcore.cpp.o -c /home/jerry/ECE511/src/frontend/impl/processor/bhO3/bhcore.cpp",
+  "file": "/home/jerry/ECE511/src/frontend/impl/processor/bhO3/bhcore.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/frontend",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-frontend.dir/impl/processor/bhO3/bhllc.cpp.o -c /home/jerry/ECE511/src/frontend/impl/processor/bhO3/bhllc.cpp",
+  "file": "/home/jerry/ECE511/src/frontend/impl/processor/bhO3/bhllc.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/frontend",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-frontend.dir/impl/external_wrapper/gem5_frontend.cpp.o -c /home/jerry/ECE511/src/frontend/impl/external_wrapper/gem5_frontend.cpp",
+  "file": "/home/jerry/ECE511/src/frontend/impl/external_wrapper/gem5_frontend.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/translation",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-translation.dir/impl/no_translation.cpp.o -c /home/jerry/ECE511/src/translation/impl/no_translation.cpp",
+  "file": "/home/jerry/ECE511/src/translation/impl/no_translation.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/translation",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-translation.dir/impl/random_translation.cpp.o -c /home/jerry/ECE511/src/translation/impl/random_translation.cpp",
+  "file": "/home/jerry/ECE511/src/translation/impl/random_translation.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/memory_system",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-memorysystem.dir/impl/bh_DRAM_system.cpp.o -c /home/jerry/ECE511/src/memory_system/impl/bh_DRAM_system.cpp",
+  "file": "/home/jerry/ECE511/src/memory_system/impl/bh_DRAM_system.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/memory_system",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-memorysystem.dir/impl/dummy_memory_system.cpp.o -c /home/jerry/ECE511/src/memory_system/impl/dummy_memory_system.cpp",
+  "file": "/home/jerry/ECE511/src/memory_system/impl/dummy_memory_system.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/memory_system",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-memorysystem.dir/impl/generic_DRAM_system.cpp.o -c /home/jerry/ECE511/src/memory_system/impl/generic_DRAM_system.cpp",
+  "file": "/home/jerry/ECE511/src/memory_system/impl/generic_DRAM_system.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/addr_mapper",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-addrmapper.dir/impl/linear_mappers.cpp.o -c /home/jerry/ECE511/src/addr_mapper/impl/linear_mappers.cpp",
+  "file": "/home/jerry/ECE511/src/addr_mapper/impl/linear_mappers.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/addr_mapper",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-addrmapper.dir/impl/rit.cpp.o -c /home/jerry/ECE511/src/addr_mapper/impl/rit.cpp",
+  "file": "/home/jerry/ECE511/src/addr_mapper/impl/rit.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-dram.dir/impl/DDR3.cpp.o -c /home/jerry/ECE511/src/dram/impl/DDR3.cpp",
+  "file": "/home/jerry/ECE511/src/dram/impl/DDR3.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-dram.dir/impl/DDR4.cpp.o -c /home/jerry/ECE511/src/dram/impl/DDR4.cpp",
+  "file": "/home/jerry/ECE511/src/dram/impl/DDR4.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-dram.dir/impl/DDR4-VRR.cpp.o -c /home/jerry/ECE511/src/dram/impl/DDR4-VRR.cpp",
+  "file": "/home/jerry/ECE511/src/dram/impl/DDR4-VRR.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-dram.dir/impl/DDR5.cpp.o -c /home/jerry/ECE511/src/dram/impl/DDR5.cpp",
+  "file": "/home/jerry/ECE511/src/dram/impl/DDR5.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-dram.dir/impl/LPDDR5.cpp.o -c /home/jerry/ECE511/src/dram/impl/LPDDR5.cpp",
+  "file": "/home/jerry/ECE511/src/dram/impl/LPDDR5.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-dram.dir/impl/HBM.cpp.o -c /home/jerry/ECE511/src/dram/impl/HBM.cpp",
+  "file": "/home/jerry/ECE511/src/dram/impl/HBM.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-dram.dir/impl/HBM2.cpp.o -c /home/jerry/ECE511/src/dram/impl/HBM2.cpp",
+  "file": "/home/jerry/ECE511/src/dram/impl/HBM2.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-dram.dir/impl/HBM3.cpp.o -c /home/jerry/ECE511/src/dram/impl/HBM3.cpp",
+  "file": "/home/jerry/ECE511/src/dram/impl/HBM3.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/bh_dram_controller.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/bh_dram_controller.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/bh_dram_controller.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/dummy_controller.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/dummy_controller.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/dummy_controller.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/generic_dram_controller.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/generic_dram_controller.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/generic_dram_controller.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/scheduler/bh_scheduler.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/scheduler/bh_scheduler.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/scheduler/bh_scheduler.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/scheduler/blocking_scheduler.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/scheduler/blocking_scheduler.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/scheduler/blocking_scheduler.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/scheduler/generic_scheduler.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/scheduler/generic_scheduler.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/scheduler/generic_scheduler.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/scheduler/rl_scheduler.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/scheduler/rl_scheduler.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/scheduler/rl_scheduler.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/refresh/all_bank_refresh.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/refresh/all_bank_refresh.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/refresh/all_bank_refresh.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/plugin/trace_recorder.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/plugin/trace_recorder.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/plugin/trace_recorder.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/plugin/cmd_counter.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/plugin/cmd_counter.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/plugin/cmd_counter.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/plugin/para.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/plugin/para.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/plugin/para.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/plugin/graphene.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/plugin/graphene.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/plugin/graphene.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/plugin/oracle_rh.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/plugin/oracle_rh.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/plugin/oracle_rh.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/plugin/twice.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/plugin/twice.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/plugin/twice.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/plugin/hydra.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/plugin/hydra.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/plugin/hydra.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/plugin/rrs.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/plugin/rrs.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/plugin/rrs.cpp"
+},
+{
+  "directory": "/home/jerry/ECE511/build/src/dram_controller",
+  "command": "/usr/bin/c++  -I/home/jerry/ECE511/ext/yaml-cpp/include -I/home/jerry/ECE511/ext/spdlog/include -I/home/jerry/ECE511/ext/argparse/include -I/home/jerry/ECE511/src -O3 -DNDEBUG -fPIC -std=c++20 -o CMakeFiles/ramulator-controller.dir/impl/plugin/blockhammer/blockhammer.cpp.o -c /home/jerry/ECE511/src/dram_controller/impl/plugin/blockhammer/blockhammer.cpp",
+  "file": "/home/jerry/ECE511/src/dram_controller/impl/plugin/blockhammer/blockhammer.cpp"
+}
+]

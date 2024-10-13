@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/ramulator-exe.dir/src/main.cpp.o -o ramulator2  -Wl,-rpath,/home/jerry/ECE511 ../libramulator.so _deps/yaml-cpp-build/libyaml-cpp.a _deps/spdlog-build/libspdlog.a 

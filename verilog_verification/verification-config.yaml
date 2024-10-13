@@ -1,0 +1,31 @@
+Frontend:
+  impl: LoadStoreTrace
+  path: ./verilog_verification/traces/test3.trace
+  clock_ratio: 1
+
+  Translation:
+    impl: NoTranslation
+    max_addr: 2147483648
+
+MemorySystem:
+  impl: GenericDRAM
+  clock_ratio: 3
+
+  DRAM:
+    impl: DDR4
+    org:
+      preset: DDR4_8Gb_x8
+      channel: 1
+      rank: 2
+    timing:
+      preset: DDR4_2400R 
+
+  Controller:
+    impl: Generic
+    Scheduler:
+      impl: RLScheduler
+    RefreshManager:
+      impl: AllBank
+
+  AddrMapper:
+    impl: RoBaRaCoCh
